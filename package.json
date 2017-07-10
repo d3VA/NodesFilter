@@ -1,0 +1,8 @@
+{
+  "name": "NodesFilter",
+  "description": "A node filter component for BitQuery VA-App: zoom and filter. Filters data according to legend filter settings.",
+  "author": "Svetlana Bykovskaya <bykovskaya.svetlana@gmail.com>, Lukas Borke <lukas@borke.net>",
+  "license": "Apache License 2.0",
+  "version": "0.7.0",
+  "main": "NodesFilter.js"
+}
